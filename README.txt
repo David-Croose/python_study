@@ -1,4 +1,4 @@
-This a repository contains many base python code I lean.
+This a repository contains many base python code I learn.
 
 Note:
     * thoes programs adapted to Python2 is client.py, client2.py, the others and
